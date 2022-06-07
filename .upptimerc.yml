@@ -9,6 +9,10 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: YouTube
+    url: https://www.youtube.com
+  - name: NCU
+    url: https://www.ncu.edu.tw/tw/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
