@@ -13,6 +13,13 @@ sites:
     url: https://www.youtube.com
   - name: NCU
     url: https://www.ncu.edu.tw/tw/
+  - name: Netflix
+    url: https://www.netflix.com/browse
+  - name: Nike
+    url: https://www.nike.com/tw/
+  - name: Yahoo
+    url: https://tw.yahoo.com/?p=us
+    
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
