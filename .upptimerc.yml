@@ -19,6 +19,8 @@ sites:
     url: https://www.nike.com/tw/
   - name: Yahoo
     url: https://tw.yahoo.com/?p=us
+  - name: tixcraft
+    url: https://ticraft.com/
     
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
