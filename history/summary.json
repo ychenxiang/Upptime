@@ -76,19 +76,19 @@
     "url": "https://www.ncu.edu.tw/tw/",
     "icon": "https://favicons.githubusercontent.com/www.ncu.edu.tw",
     "slug": "ncu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2464,
-    "timeDay": 2685,
-    "timeWeek": 2605,
-    "timeMonth": 2464,
-    "timeYear": 2464,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 2435,
+    "timeDay": 2331,
+    "timeWeek": 2526,
+    "timeMonth": 2435,
+    "timeYear": 2435,
     "dailyMinutesDown": {
-      "2022-06-20": 0
+      "2022-06-20": 59
     }
   },
   {
